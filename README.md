@@ -1,6 +1,6 @@
 # Analysis on Seattle_airbnb
 
-#Libraries used in the project
+# Libraries used in the project
 --------------------------------
 The project is run under Python 3.0 with utilization of below libraries:
 1. Pandas
@@ -12,7 +12,7 @@ The project is run under Python 3.0 with utilization of below libraries:
 7. warnings
 8. Sklearn
 
-#Motivation for the project
+# Motivation for the project
 --------------------------------
 Assume it is to start lodging business in Seattle, there may be a lot of business considerations including profit return, difficulties to lease, seasonal influence, etc. This project may not be able to answer all but provide some insight on general situations in Seattle by answering below questions:
 
@@ -21,7 +21,7 @@ Assume it is to start lodging business in Seattle, there may be a lot of busines
     • Will it be easy to lease lodging in Seattle?
     • What factors are determining leasing prices of lodgings?
   
-#File Descriptions
+# File Descriptions
 --------------------------------
 Analysis file: 
 - Seattle AirBnB v1.1.ipynb: This jupyter notebook runs through CRISP-DM to provide data mining and analysis subject to questions mentioned in :"Motivation for the Project".
@@ -43,7 +43,7 @@ Data files: Data set from Kaggle on Seattle AirBNB was chosen for this purpose.(
 4. Factors determining leasing price of lodges are more related to size of lodges and facilities like bathrooms and bedrooms, and less related to review attributes(e.g. number of reviews and review rating scores). Because of that in order to provide more accurate prediction using machine learning we shall need more data on size of lodges and facilities.
 
 
-#Acknowledgement
+# Acknowledgement
 --------------------------------
-reference of original data: https://www.kaggle.com/airbnb/seattle/data
+Reference of original data: https://www.kaggle.com/airbnb/seattle/data
 
