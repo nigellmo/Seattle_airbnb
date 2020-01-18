@@ -1,7 +1,6 @@
 # Analysis on Seattle_airbnb
 
 # Libraries used in the project
---------------------------------
 The project is run under Python 3.0 with utilization of below libraries:
 1. Pandas
 2. Numpy
@@ -13,7 +12,6 @@ The project is run under Python 3.0 with utilization of below libraries:
 8. Sklearn
 
 # Motivation for the project
---------------------------------
 Assume it is to start lodging business in Seattle, there may be a lot of business considerations including profit return, difficulties to lease, seasonal influence, etc. This project may not be able to answer all but provide some insight on general situations in Seattle by answering below questions:
 
     • Traffic convenience and variety of entertainment are usually very important factors to consider where to start lodging business. Is it the same case in Seattle? 
@@ -22,7 +20,6 @@ Assume it is to start lodging business in Seattle, there may be a lot of busines
     • What factors are determining leasing prices of lodgings?
   
 # File Descriptions
---------------------------------
 Analysis file: 
 - Seattle AirBnB v1.1.ipynb: This jupyter notebook runs through CRISP-DM to provide data mining and analysis subject to questions mentioned in :"Motivation for the Project".
 
@@ -33,7 +30,6 @@ Data files: Data set from Kaggle on Seattle AirBNB was chosen for this purpose.(
 
 
 # Summary of the results of the analysis
---------------------------------
 1. Like other popular cities for travel, Density of lodges is the highest with relatively higher leasing prices in the Central Business District, which means traffic convenience and variety of entertainment are also one of the important considerations to start lodging business in Seattle.
 
 2. Seasonal trend for leasing prices were obvious.
@@ -44,6 +40,5 @@ Data files: Data set from Kaggle on Seattle AirBNB was chosen for this purpose.(
 
 
 # Acknowledgement
---------------------------------
 Reference of original data: https://www.kaggle.com/airbnb/seattle/data
 
